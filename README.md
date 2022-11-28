@@ -7,7 +7,7 @@
 
 Can a machine distinguish between a honey bee and a bumble bee? Being able to identify bee species from images, while challenging, would allow researchers to more quickly and effectively collect field data. In this Project, we will use the Python image library Pillow to load and manipulate image data. You'll learn common transformations of images and how to build them into a pipeline.
 
-In These projects we will working with image data, building classifiers using traditional techniques, and leveraging the power of deep learning for computer vision. The second project in the series is Naïve Bees: Predict Species from Images.
+In These projects we will working with image data, building classifiers using traditional techniques, and leveraging the power of deep learning for computer vision.
 
 ## Tools in this Project
 [x] Pandas 
@@ -23,6 +23,7 @@ In These projects we will working with image data, building classifiers using tr
 [x] Image Manipulation
 [x] Support Vector Machine (SVM) - Support Vector Classifier (SVC)
 [x] Unsupervised Machine Learning
+[x] Deep Learning
 
 
 ## Part 01: Image Loading and Processing
